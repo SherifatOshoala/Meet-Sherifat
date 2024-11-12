@@ -36,6 +36,6 @@ How to Use
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/your-portfolio-repo.git
+git clone https://github.com/SherifatOshoala/Meet-Sherifat
 Open the project: Open index.html in a web browser to view the portfolio locally.
 Modify and Customize: If you want to create your own portfolio based on this template, replace the text, images, and links with your own information.
